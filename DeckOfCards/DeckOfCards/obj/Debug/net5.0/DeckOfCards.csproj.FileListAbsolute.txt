@@ -1,0 +1,16 @@
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\bin\Debug\net5.0\DeckOfCards.exe
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\bin\Debug\net5.0\DeckOfCards.deps.json
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\bin\Debug\net5.0\DeckOfCards.runtimeconfig.json
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\bin\Debug\net5.0\DeckOfCards.runtimeconfig.dev.json
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\bin\Debug\net5.0\DeckOfCards.dll
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\bin\Debug\net5.0\ref\DeckOfCards.dll
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\bin\Debug\net5.0\DeckOfCards.pdb
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\obj\Debug\net5.0\DeckOfCards.csprojAssemblyReference.cache
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\obj\Debug\net5.0\DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\obj\Debug\net5.0\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\obj\Debug\net5.0\DeckOfCards.AssemblyInfo.cs
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\obj\Debug\net5.0\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\obj\Debug\net5.0\DeckOfCards.dll
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\obj\Debug\net5.0\ref\DeckOfCards.dll
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\obj\Debug\net5.0\DeckOfCards.pdb
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\obj\Debug\net5.0\DeckOfCards.genruntimeconfig.cache

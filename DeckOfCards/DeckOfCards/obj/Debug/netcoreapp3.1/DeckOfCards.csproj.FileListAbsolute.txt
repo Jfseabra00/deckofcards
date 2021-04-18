@@ -1,0 +1,4 @@
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.csprojAssemblyReference.cache
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfo.cs
+C:\Users\jfsea\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.csproj.CoreCompileInputs.cache
